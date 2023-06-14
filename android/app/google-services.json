@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "320309800593",
+    "project_id": "safer-7f76e",
+    "storage_bucket": "safer-7f76e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320309800593:android:ee3139b6757b70ead35930",
+        "android_client_info": {
+          "package_name": "com.example.safer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320309800593-kmkctt89one92o4oqg77cb133r2qr6ur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safer",
+            "certificate_hash": "66a39416aafe793a65c77c6231e2300285b62ecb"
+          }
+        },
+        {
+          "client_id": "320309800593-pd4t2quelnmle0bkb8khf5535rbj256b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAooF_nc_RBolnGI8Z8bVb5n0DsNX_4CoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320309800593-pd4t2quelnmle0bkb8khf5535rbj256b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
